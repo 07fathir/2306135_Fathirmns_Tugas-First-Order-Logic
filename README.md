@@ -27,4 +27,4 @@ Pastikan SWI-Prolog telah terinstal di komputer Anda. Jika belum, Anda dapat men
 
 Gunakan perintah berikut untuk mengunduh repositori:
 
-git clone https://github.com/07fathir/2306135_Fatjirmns_Tugas First Order Logic.git  
+git clone (https://github.com/07fathir/2306135_Fathirmns_Tugas-First-Order-Logic)
